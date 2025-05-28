@@ -6,6 +6,18 @@
     scroll-behavior: smooth;
 }
 
+#home,
+#shop{
+    scroll-margin-top: 60px; /* Adjust based on your navbar height */
+  }
+
+  #pages,
+  #blog{
+    scroll-margin-top: 100px; /* Adjust based on your navbar height */
+  }
+
+
+
 .nav-bar{
     display: flex;
     padding: 10px;
