@@ -8,7 +8,7 @@
 
 #home,
 #shop{
-    scroll-margin-top: 65px; /* Adjust based on your navbar height */
+    scroll-margin-top: 60px; /* Adjust based on your navbar height */
   }
 
   #pages,
